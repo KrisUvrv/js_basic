@@ -15,10 +15,10 @@ const sort = (arr, order = 'asc') => {
   return arr;
 }
 
-const arr = [1, 40, -5, 10, 0];
-
-console.log(sort(arr, 'asc'));
-console.log(sort(arr, 'desc'));
+// const arr = [1, 40, -5, 10, 0];
+//
+// console.log(sort(arr, 'asc'));
+// console.log(sort(arr, 'desc'));
 
 
 
